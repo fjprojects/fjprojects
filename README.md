@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mini projects with computer science<br>👯 I’m looking to collaborate on projects related to ai<br>🤝 I’m looking for help with who can make my projects better<br>🌱 I’m currently learning java<br>💬 Ask me about turning biology ideas into code<br>⚡ Fun fact i am from bio background
+ I’m currently working on mini projects with computer science<br> I’m looking to collaborate on projects related to ai<br. I’m looking for help with who can make my projects better<br> I’m currently learning java<br> Ask me about turning biology ideas into code<br> Fun fact i am from bio background
 
 
 # 💻 Tech Stack:
