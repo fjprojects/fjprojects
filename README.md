@@ -1,15 +1,109 @@
-# 💫 About Me:
- I’m currently working on mini projects with computer science<br> I’m looking to collaborate on projects related to ai<br>. I’m looking for help with who can make my projects better<br> I’m currently learning java<br> Ask me about turning biology ideas into code<br> Fun fact i am from bio background
+# Hi, I'm Francis Job 👋
 
+## 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fjprojects&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fjprojects&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fjprojects&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a second-year B.Tech Computer Science Engineering student from Kerala, India.
+
+I enjoy building practical software using **React, Django and Python**, with a particular interest in combining **software development, healthcare and computational biology**.
+
+- 🔭 Currently building full-stack web applications
+- 🌱 Learning Java, Data Structures and advanced React
+- 💻 Interested in Frontend and Full-Stack Development
+- 🧬 Exploring AI, healthcare and computational biology
+- 🎯 Looking for Software Development / React internship opportunities
+- 📍 Kerala, India
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fjprojects&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 👁️ OcuSense AI
+Eye-health monitoring web application designed to encourage healthier screen usage.
+
+**Features**
+- Blink detection
+- Screen-distance monitoring
+- Water reminders
+- Medicine reminders
+- Responsive interface
+
+**Tech:** React • Django • Python • HTML • CSS
+
+---
+
+### 🛒 Timberly
+Responsive e-commerce web application built using React.
+
+**Tech:** React • JavaScript • HTML • CSS
+
+---
+
+### 🧬 DNA Codon Translator
+C program that converts DNA codon sequences into their corresponding amino acids.
+
+**Tech:** C • Bioinformatics
+
+---
+
+### 🩸 Disease Prediction Program
+Python-based application that uses blood-related inputs to perform a basic anemia likelihood assessment.
+
+**Tech:** Python • Healthcare Data
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### React Intern — Nth Index
+**June 2026**
+
+- Built responsive frontend components using React
+- Worked with HTML, CSS and JavaScript
+- Practised component-based frontend development
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge)](https://francis-portfolio-bqnn.onrender.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francis_Job-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francis-job)
+
+[![GitHub](https://img.shields.io/badge/GitHub-fjprojects-181717?style=for-the-badge&logo=github)](https://github.com/fjprojects)
+
+---
+
+## 📫 Contact
+
+**Email:** francisjob.coder@gmail.com
+
+---
+
+> Building projects to learn — and learning enough to build better projects.
